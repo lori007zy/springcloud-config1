@@ -1,1 +1,2 @@
-I am lori.
+server:
+  port: 6666
